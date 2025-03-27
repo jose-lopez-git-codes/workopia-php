@@ -1,0 +1,16 @@
+{
+  "name": "jose-lopez-git-codes/workopia-php",
+  "description": "Job listing application",
+  "authors": [
+    {
+      "name": "Jose Lopez",
+      "email": "test@test.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
